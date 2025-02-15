@@ -1,6 +1,4 @@
-# 👋 Olá! Seja bem-vindo ao meu GitHub!
-
-Olá! Me chamo Vitor Augusto, sou graduado em Ciência da Computação e um apaixonado por tecnologia.
+### Olá! Me chamo Vitor Augusto, sou graduado em Ciência da Computação e um apaixonado por tecnologia.
 
 ## 🚀 Tecnologias e Ferramentas:
 ### 🎨 **Frontend**
